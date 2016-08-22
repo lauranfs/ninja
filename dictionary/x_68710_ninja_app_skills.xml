@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Skills" max_length="40" name="x_68710_ninja_app_skills" type="collection">
+        <element display="true" label="Name" max_length="40" name="name" type="string"/>
+        <element label="Ninja Ken" max_length="40" name="ninja_ken" type="boolean"/>
+        <element label="Shuriken-Jutsu" max_length="40" name="shuriken_jutsu" type="boolean"/>
+    </element>
+</database>
