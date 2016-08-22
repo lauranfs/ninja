@@ -2,7 +2,7 @@
 <record_update sys_domain="global" table="sys_app_module">
     <sys_app_module action="INSERT_OR_UPDATE">
         <active>true</active>
-        <application display_value="Ninja App">45bc34534f112200479e27118110c78b</application>
+        <application display_value="Weird Test Title">45bc34534f112200479e27118110c78b</application>
         <assessment/>
         <content_page/>
         <device_type/>
@@ -25,7 +25,7 @@
         <sys_class_name>sys_app_module</sys_class_name>
         <sys_created_by>laura.nfs</sys_created_by>
         <sys_created_on>2016-08-22 19:55:30</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>01bc34534f112200479e27118110c78c</sys_id>

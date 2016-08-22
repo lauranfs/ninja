@@ -12,7 +12,7 @@
         <sys_class_name>sys_user_role</sys_class_name>
         <sys_created_by>laura.nfs</sys_created_by>
         <sys_created_on>2016-08-22 19:55:28</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>e0bc34534f112200479e27118110c786</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_68710_ninja_app_skills_user</sys_name>
